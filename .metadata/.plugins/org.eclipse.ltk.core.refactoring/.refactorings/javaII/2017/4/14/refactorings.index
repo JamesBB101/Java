@@ -1,0 +1,69 @@
+1491105186863	Move compilation unit
+1491105211819	Rename type 'test1'
+1491113737640	Rename type 'file_InputStream'
+1491119906391	Rename type 'test3'
+1491120001070	Rename type 'fileReader_BufferedInputStream'
+1491120297575	Move compilation unit
+1491120472919	Rename type 'test'
+1491120598895	Rename type 'FileReader_BufferedInputStream'
+1491120608239	Rename type 'FileReader1_BufferedInputStream'
+1491120907139	Rename type 'FileReader_BufferedInputStream'
+1491137827382	Rename compilation unit 'test3.java'
+1491212881479	Rename type 'test'
+1491212887438	Move compilation unit
+1491213797042	Rename type 'FileOutputStream_DataOutputStreeam'
+1491235822124	Move compilation unit
+1491235871331	Rename type 'test2'
+1491237800409	Move compilation unit
+1491237834247	Rename type 'test4'
+1491310779688	Move compilation unit
+1491317041345	Rename type 'ObjSerializable'
+1491317125085	Rename type 'test1'
+1491317132834	Move compilation unit
+1491317144232	Rename type 'test3'
+1491317149114	Move compilation unit
+1491357932568	Delete element
+1491361908099	Delete element
+1491368899501	Rename type 'test'
+1491368999207	Delete element
+1491369328696	Rename compilation unit 'test1.java'
+1491373600707	Rename resource 'file1'
+1491374186283	Rename type 'test2'
+1491374221542	Rename type 'directory_file_mkdir'
+1491374241100	Rename type 'dataOptputStream_FilOutputStream'
+1491374252887	Rename type 'FileOutputStream_FileReader_BufferesReader'
+1491375045769	Move compilation unit
+1491375050777	Move compilation unit
+1491376508470	Rename type 'test'
+1491376537379	Delete element
+1491377600491	Move compilation unit
+1491377604303	Move compilation unit
+1491377612383	Move compilation unit
+1491377633456	Rename type 'ObjOutputStream_FileOutputStream'
+1491378148480	Move compilation unit
+1491378163226	Move compilation unit
+1491378167572	Move compilation unit
+1491378192591	Rename type 'test2'
+1491378858772	Delete element
+1491457883283	Rename type 'test3'
+1491457897120	Move compilation unit
+1491459804957	Move compilation unit
+1491462321402	Rename type 'test'
+1491462333374	Move compilation unit
+1491477060788	Move compilation unit
+1491479388405	Move compilation unit
+1491479414793	Rename type 'test1'
+1491479578378	Move compilation unit
+1491485127263	Rename type 'byte_reader'
+1491537270271	Move compilation unit
+1491548503642	Rename type 'SetTest1'
+1491548519917	Rename type 'Set_HasgSet'
+1491556728207	Rename type 'SetTest2'
+1491557602289	Rename type 'ListTest1'
+1491561926502	Rename type 'List_LinkedList'
+1491563342432	Rename type 'MapTest1'
+1491566028923	Rename type 'GTest1'
+1491566058589	Rename type 'GTest3'
+1491566685905	Rename type 'GTest4'
+1491566984111	Move compilation unit
+1491566987574	Move compilation unit

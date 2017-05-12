@@ -1,0 +1,14 @@
+package test;
+
+public class bike2Test {
+
+	public static void main(String[] args) {
+		bike2 b2 = new bike2();
+		System.out.println(b2.speed);
+		b2.addspeed();
+		System.out.println(b2.speed);
+		System.out.println(b2.getSpeed());
+
+	}
+
+}

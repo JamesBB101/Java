@@ -1,0 +1,15 @@
+package test;
+
+public class bike3Test {
+
+	public static void main(String[] args) {
+		bike b1=new bike();
+		bike2 b2 = new bike2();
+		bike3 b3 = new bike3();
+		System.out.println(b1.getSpeed());
+		b2.addSpeed();
+		b3.addSpeed();
+
+	}
+
+}

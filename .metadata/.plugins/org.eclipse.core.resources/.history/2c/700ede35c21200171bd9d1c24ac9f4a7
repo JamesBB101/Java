@@ -1,0 +1,7 @@
+package test;
+
+public class bike3 extends bike {
+	void addSpeed(){
+		System.out.println("addSpeed:3");
+	}
+}

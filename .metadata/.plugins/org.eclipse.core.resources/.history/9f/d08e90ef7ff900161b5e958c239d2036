@@ -1,0 +1,15 @@
+package homework;
+
+public class homework2 {
+    public static void main(String[] args)
+    {
+    	int a=60,b=24,c=256559;
+    	int day,hr,min,sec;
+    	day=c/(a*a*b);
+    	hr=c%(a*b*b)/(a*a);
+    	min=c%(a*b*b)%(b*b)/b;
+    	//天的餘數,小時的餘數
+    	sec=c%a;
+    	System.out.println(day+"d"+hr+"h"+min+"m"+sec);
+    }
+}

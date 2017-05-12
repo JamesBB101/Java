@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;homework9.v&apos; to &apos;constructIsToPassMessage&apos;&#x0D;&#x0A;- Original project: &apos;HomeWork&apos;&#x0D;&#x0A;- Original element: &apos;homework9.v&apos;&#x0D;&#x0A;- Renamed element: &apos;homework9.constructIsToPassMessage&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;v&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;homework9{v.java[v" matchStrategy="1" name="constructIsToPassMessage" qualified="false" references="true" similarDeclarations="false" stamp="1492492720899" textual="false" version="1.0"/>
+</session>

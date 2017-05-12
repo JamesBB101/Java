@@ -1,0 +1,5 @@
+package test;
+
+public class bike3 extends bike2 {
+
+}

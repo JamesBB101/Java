@@ -1,0 +1,20 @@
+package arrary;
+
+import java.util.ArrayList;
+
+public class test3 {
+
+	public static void main(String[] args) {
+		ArrayList<String> arrlist = new ArrayList<String>();
+		String f[] = {"梅花","方塊","紅心","黑桃"};
+		for (int x=0; x<=3; x++){
+			for (int y=1; y<=10; y++){
+				arrlist.add(f[x]+"   "+y);
+			}
+			arrlist.add(f[x]+"   "+"J");
+			arrlist.add(f[x]+"   "+"Q");
+			arrlist.add(f[x]+"   "+"K");
+		}
+		
+	}
+}

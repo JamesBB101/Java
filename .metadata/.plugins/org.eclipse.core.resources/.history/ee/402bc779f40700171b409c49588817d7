@@ -1,0 +1,33 @@
+package arrary;
+
+import java.util.ArrayList;
+
+public class test3 {
+
+	public static void main(String[] args) {
+		ArrayList<String> a=new ArrayList<String>();
+		String[] P={"梅","蘭","竹","菊"};
+		for(int j=0;j<=3;j++){
+		    for(int i=1;i<11;i++){
+			    a.add(P[j]+i);
+			    
+		    }
+			    a.add(P[j]+"J");
+			    a.add(P[j]+"Q");
+			    a.add(P[j]+"K");
+		}
+		int size=a.size();
+		int count=0;
+		while(size>0){
+			int r=(int)(Math.random()*52);
+			System.out.println(a.get(r));
+			a.remove(r);
+			size--;
+			count++;
+			if(count%13==0){
+				System.out.println();
+				count=0;
+			}
+		}
+	}
+}

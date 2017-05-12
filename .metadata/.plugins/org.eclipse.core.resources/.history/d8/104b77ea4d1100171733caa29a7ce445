@@ -1,0 +1,11 @@
+package test;
+
+public class bike2 extends bike{
+
+	double getSpeed(){
+		return speed;
+	}
+	void addSpeed(){
+		System.out.println("addSpeed:3");
+	}
+}

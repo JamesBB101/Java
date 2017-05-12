@@ -1,0 +1,10 @@
+
+把inputstream/FileReader 用 bufferedReader包
+等於賦予 inputstream/FileReader有讀字串的能力
+
+
+PrintStream
+FileOutputStream
+write
+flush
+節點關閉

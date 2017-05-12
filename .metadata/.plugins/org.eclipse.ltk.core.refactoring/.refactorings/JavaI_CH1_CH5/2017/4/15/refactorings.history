@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;test.java&apos; to &apos;collection_.test1.java&apos;&#x0D;&#x0A;- Original project: &apos;JavaI_CH1_CH5&apos;&#x0D;&#x0A;- Destination element: &apos;collection_.test1.java&apos;&#x0D;&#x0A;- Original element: &apos;CH1_CH5.test.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=javaII/src&lt;collection_{test1.java" element1="/java1_5&lt;CH1_CH5{test.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1491979375578" units="1" version="1.0"/>
+</session>

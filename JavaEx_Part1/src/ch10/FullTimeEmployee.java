@@ -1,0 +1,18 @@
+package ch10;
+
+public class FullTimeEmployee extends Employee {
+	private double monthlySalary; // 月薪
+
+	public void display() {
+		super.display();  //呼叫父類別方法
+		System.out.println("月薪 = " + monthlySalary);
+	}
+
+	public FullTimeEmployee(int empno, String ename, double monthlySalary) {
+		super(empno, ename);  //呼叫父類別建構子
+		this.monthlySalary = monthlySalary;
+	}
+	public double getSalary(){
+		return monthlySalary;
+	}
+}
